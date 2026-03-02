@@ -7,4 +7,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/manish23033/daily_lc/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1907-count-salary-categories](https://github.com/manish23033/daily_lc/tree/main/1907-count-salary-categories/) | Medium |
 <!---LeetCode Topics End-->
