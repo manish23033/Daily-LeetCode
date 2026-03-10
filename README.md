@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/manish23033/daily_lc/tree/main/0088-merge-sorted-array/) | Easy |
 | [0344-reverse-string](https://github.com/manish23033/daily_lc/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/manish23033/daily_lc/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/manish23033/daily_lc/tree/main/0136-single-number/) | Easy |
 | [0724-find-pivot-index](https://github.com/manish23033/daily_lc/tree/main/0724-find-pivot-index/) | Easy |
 ## Prefix Sum
@@ -30,4 +32,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/manish23033/daily_lc/tree/main/0136-single-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/manish23033/daily_lc/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
