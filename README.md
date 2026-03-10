@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/manish23033/daily_lc/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/manish23033/daily_lc/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,4 +37,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/manish23033/daily_lc/tree/main/0088-merge-sorted-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/manish23033/daily_lc/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/manish23033/daily_lc/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/manish23033/daily_lc/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
