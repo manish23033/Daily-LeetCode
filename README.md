@@ -20,9 +20,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/manish23033/daily_lc/tree/main/0136-single-number/) | Easy |
 | [0724-find-pivot-index](https://github.com/manish23033/daily_lc/tree/main/0724-find-pivot-index/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/manish23033/daily_lc/tree/main/0724-find-pivot-index/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/manish23033/daily_lc/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
