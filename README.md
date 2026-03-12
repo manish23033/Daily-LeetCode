@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0626-exchange-seats](https://github.com/manish23033/daily_lc/tree/main/0626-exchange-seats/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/manish23033/daily_lc/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1341-movie-rating](https://github.com/manish23033/daily_lc/tree/main/1341-movie-rating/) | Medium |
 | [1907-count-salary-categories](https://github.com/manish23033/daily_lc/tree/main/1907-count-salary-categories/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/manish23033/daily_lc/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Two Pointers
