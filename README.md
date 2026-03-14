@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/manish23033/daily_lc/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0626-exchange-seats](https://github.com/manish23033/daily_lc/tree/main/0626-exchange-seats/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/manish23033/daily_lc/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1321-restaurant-growth](https://github.com/manish23033/daily_lc/tree/main/1321-restaurant-growth/) | Medium |
