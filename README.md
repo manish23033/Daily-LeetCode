@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0626-exchange-seats](https://github.com/manish23033/daily_lc/tree/main/0626-exchange-seats/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/manish23033/daily_lc/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1321-restaurant-growth](https://github.com/manish23033/daily_lc/tree/main/1321-restaurant-growth/) | Medium |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/manish23033/daily_lc/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/manish23033/daily_lc/tree/main/1341-movie-rating/) | Medium |
 | [1527-patients-with-a-condition](https://github.com/manish23033/daily_lc/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/manish23033/daily_lc/tree/main/1667-fix-names-in-a-table/) | Easy |
