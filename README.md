@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0185-department-top-three-salaries](https://github.com/manish23033/daily_lc/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0196-delete-duplicate-emails](https://github.com/manish23033/daily_lc/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0585-investments-in-2016](https://github.com/manish23033/daily_lc/tree/main/0585-investments-in-2016/) | Medium |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/manish23033/daily_lc/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0626-exchange-seats](https://github.com/manish23033/daily_lc/tree/main/0626-exchange-seats/) | Medium |
