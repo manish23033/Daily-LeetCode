@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manish23033/daily_lc/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/manish23033/daily_lc/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/manish23033/daily_lc/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manish23033/daily_lc/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/manish23033/daily_lc/tree/main/0049-group-anagrams/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manish23033/daily_lc/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/manish23033/daily_lc/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/manish23033/daily_lc/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/manish23033/daily_lc/tree/main/0049-group-anagrams/) | Medium |
 | [0268-missing-number](https://github.com/manish23033/daily_lc/tree/main/0268-missing-number/) | Easy |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/manish23033/daily_lc/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/manish23033/daily_lc/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/manish23033/daily_lc/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
