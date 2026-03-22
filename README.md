@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/manish23033/daily_lc/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/manish23033/daily_lc/tree/main/0013-roman-to-integer/) | Easy |
+| [0060-permutation-sequence](https://github.com/manish23033/daily_lc/tree/main/0060-permutation-sequence/) | Hard |
 | [0268-missing-number](https://github.com/manish23033/daily_lc/tree/main/0268-missing-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/manish23033/daily_lc/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Binary Search
@@ -160,4 +161,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish23033/daily_lc/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0060-permutation-sequence](https://github.com/manish23033/daily_lc/tree/main/0060-permutation-sequence/) | Hard |
 <!---LeetCode Topics End-->
