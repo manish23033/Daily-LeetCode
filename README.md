@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/manish23033/daily_lc/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/manish23033/daily_lc/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/manish23033/daily_lc/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manish23033/daily_lc/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/manish23033/daily_lc/tree/main/0031-next-permutation/) | Medium |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/manish23033/daily_lc/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/manish23033/daily_lc/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/manish23033/daily_lc/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/manish23033/daily_lc/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/manish23033/daily_lc/tree/main/0031-next-permutation/) | Medium |
 | [0049-group-anagrams](https://github.com/manish23033/daily_lc/tree/main/0049-group-anagrams/) | Medium |
@@ -84,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/manish23033/daily_lc/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/manish23033/daily_lc/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/manish23033/daily_lc/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/manish23033/daily_lc/tree/main/0169-majority-element/) | Easy |
