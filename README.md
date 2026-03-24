@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/manish23033/daily_lc/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/manish23033/daily_lc/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/manish23033/daily_lc/tree/main/0724-find-pivot-index/) | Easy |
+| [0912-sort-an-array](https://github.com/manish23033/daily_lc/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/manish23033/daily_lc/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/manish23033/daily_lc/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Prefix Sum
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/manish23033/daily_lc/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish23033/daily_lc/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/manish23033/daily_lc/tree/main/0268-missing-number/) | Easy |
+| [0912-sort-an-array](https://github.com/manish23033/daily_lc/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/manish23033/daily_lc/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/manish23033/daily_lc/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/manish23033/daily_lc/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish23033/daily_lc/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/manish23033/daily_lc/tree/main/0912-sort-an-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish23033/daily_lc/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/manish23033/daily_lc/tree/main/0912-sort-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +176,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0050-powx-n](https://github.com/manish23033/daily_lc/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/manish23033/daily_lc/tree/main/0060-permutation-sequence/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/manish23033/daily_lc/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/manish23033/daily_lc/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/manish23033/daily_lc/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/manish23033/daily_lc/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
