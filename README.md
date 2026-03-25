@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/manish23033/daily_lc/tree/main/0176-second-highest-salary/) | Medium |
+| [0181-employees-earning-more-than-their-managers](https://github.com/manish23033/daily_lc/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0185-department-top-three-salaries](https://github.com/manish23033/daily_lc/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/manish23033/daily_lc/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0585-investments-in-2016](https://github.com/manish23033/daily_lc/tree/main/0585-investments-in-2016/) | Medium |
