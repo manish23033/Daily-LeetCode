@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/manish23033/daily_lc/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/manish23033/daily_lc/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/manish23033/daily_lc/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/manish23033/daily_lc/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/manish23033/daily_lc/tree/main/0018-4sum/) | Medium |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manish23033/daily_lc/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/manish23033/daily_lc/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manish23033/daily_lc/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/manish23033/daily_lc/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/manish23033/daily_lc/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/manish23033/daily_lc/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/manish23033/daily_lc/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish23033/daily_lc/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
