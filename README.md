@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/manish23033/daily_lc/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/manish23033/daily_lc/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/manish23033/daily_lc/tree/main/0056-merge-intervals/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/manish23033/daily_lc/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/manish23033/daily_lc/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/manish23033/daily_lc/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/manish23033/daily_lc/tree/main/0088-merge-sorted-array/) | Easy |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/manish23033/daily_lc/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/manish23033/daily_lc/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/manish23033/daily_lc/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/manish23033/daily_lc/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/manish23033/daily_lc/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/manish23033/daily_lc/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/manish23033/daily_lc/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/manish23033/daily_lc/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/manish23033/daily_lc/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/manish23033/daily_lc/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Dynamic Programming
