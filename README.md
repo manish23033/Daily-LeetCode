@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1321-restaurant-growth](https://github.com/manish23033/daily_lc/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/manish23033/daily_lc/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/manish23033/daily_lc/tree/main/1341-movie-rating/) | Medium |
+| [1407-top-travellers](https://github.com/manish23033/daily_lc/tree/main/1407-top-travellers/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/manish23033/daily_lc/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/manish23033/daily_lc/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1907-count-salary-categories](https://github.com/manish23033/daily_lc/tree/main/1907-count-salary-categories/) | Medium |
