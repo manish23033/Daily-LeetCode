@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/manish23033/daily_lc/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/manish23033/daily_lc/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/manish23033/daily_lc/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/manish23033/daily_lc/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/manish23033/daily_lc/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/manish23033/daily_lc/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/manish23033/daily_lc/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/manish23033/daily_lc/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/manish23033/daily_lc/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/manish23033/daily_lc/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/manish23033/daily_lc/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/manish23033/daily_lc/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -224,4 +226,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/manish23033/daily_lc/tree/main/0912-sort-an-array/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/manish23033/daily_lc/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
