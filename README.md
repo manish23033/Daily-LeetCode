@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1527-patients-with-a-condition](https://github.com/manish23033/daily_lc/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/manish23033/daily_lc/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/manish23033/daily_lc/tree/main/1667-fix-names-in-a-table/) | Easy |
+| [1693-daily-leads-and-partners](https://github.com/manish23033/daily_lc/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1907-count-salary-categories](https://github.com/manish23033/daily_lc/tree/main/1907-count-salary-categories/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/manish23033/daily_lc/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Two Pointers
