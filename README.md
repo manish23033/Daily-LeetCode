@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/manish23033/daily_lc/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/manish23033/daily_lc/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/manish23033/daily_lc/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/manish23033/daily_lc/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/manish23033/daily_lc/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/manish23033/daily_lc/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/manish23033/daily_lc/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/manish23033/daily_lc/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/manish23033/daily_lc/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/manish23033/daily_lc/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/manish23033/daily_lc/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/manish23033/daily_lc/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/manish23033/daily_lc/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/manish23033/daily_lc/tree/main/0053-maximum-subarray/) | Medium |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/manish23033/daily_lc/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/manish23033/daily_lc/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manish23033/daily_lc/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Heap (Priority Queue)
@@ -234,4 +237,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/manish23033/daily_lc/tree/main/0054-spiral-matrix/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/manish23033/daily_lc/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/manish23033/daily_lc/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
