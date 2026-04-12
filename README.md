@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1693-daily-leads-and-partners](https://github.com/manish23033/daily_lc/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/manish23033/daily_lc/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1907-count-salary-categories](https://github.com/manish23033/daily_lc/tree/main/1907-count-salary-categories/) | Medium |
+| [1965-employees-with-missing-information](https://github.com/manish23033/daily_lc/tree/main/1965-employees-with-missing-information/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/manish23033/daily_lc/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
