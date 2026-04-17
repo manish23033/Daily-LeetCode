@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/manish23033/daily_lc/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/manish23033/daily_lc/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/manish23033/daily_lc/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/manish23033/daily_lc/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manish23033/daily_lc/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/manish23033/daily_lc/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/manish23033/daily_lc/tree/main/0042-trapping-rain-water/) | Hard |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manish23033/daily_lc/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/manish23033/daily_lc/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manish23033/daily_lc/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/manish23033/daily_lc/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/manish23033/daily_lc/tree/main/0069-sqrtx/) | Easy |
