@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/manish23033/daily_lc/tree/main/0409-longest-palindrome/) | Easy |
 | [1816-truncate-sentence](https://github.com/manish23033/daily_lc/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/manish23033/daily_lc/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/manish23033/daily_lc/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/manish23033/daily_lc/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0912-sort-an-array](https://github.com/manish23033/daily_lc/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/manish23033/daily_lc/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/manish23033/daily_lc/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
