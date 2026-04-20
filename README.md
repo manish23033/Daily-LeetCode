@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/manish23033/daily_lc/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/manish23033/daily_lc/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/manish23033/daily_lc/tree/main/0409-longest-palindrome/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/manish23033/daily_lc/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1816-truncate-sentence](https://github.com/manish23033/daily_lc/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/manish23033/daily_lc/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/manish23033/daily_lc/tree/main/1859-sorting-the-sentence/) | Easy |
