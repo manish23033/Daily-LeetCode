@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1816-truncate-sentence](https://github.com/manish23033/daily_lc/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/manish23033/daily_lc/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/manish23033/daily_lc/tree/main/1859-sorting-the-sentence/) | Easy |
+| [3110-score-of-a-string](https://github.com/manish23033/daily_lc/tree/main/3110-score-of-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
