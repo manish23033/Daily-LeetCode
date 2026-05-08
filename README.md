@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/manish23033/daily_lc/tree/main/0069-sqrtx/) | Easy |
 | [0263-ugly-number](https://github.com/manish23033/daily_lc/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/manish23033/daily_lc/tree/main/0268-missing-number/) | Easy |
+| [0382-linked-list-random-node](https://github.com/manish23033/daily_lc/tree/main/0382-linked-list-random-node/) | Medium |
 | [0412-fizz-buzz](https://github.com/manish23033/daily_lc/tree/main/0412-fizz-buzz/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/manish23033/daily_lc/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/manish23033/daily_lc/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -289,4 +290,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/manish23033/daily_lc/tree/main/0042-trapping-rain-water/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/manish23033/daily_lc/tree/main/0382-linked-list-random-node/) | Medium |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/manish23033/daily_lc/tree/main/0382-linked-list-random-node/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0382-linked-list-random-node](https://github.com/manish23033/daily_lc/tree/main/0382-linked-list-random-node/) | Medium |
 <!---LeetCode Topics End-->
