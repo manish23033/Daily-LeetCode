@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/manish23033/daily_lc/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/manish23033/daily_lc/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/manish23033/daily_lc/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/manish23033/daily_lc/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/manish23033/daily_lc/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/manish23033/daily_lc/tree/main/0060-permutation-sequence/) | Hard |
 | [0069-sqrtx](https://github.com/manish23033/daily_lc/tree/main/0069-sqrtx/) | Easy |
+| [0089-gray-code](https://github.com/manish23033/daily_lc/tree/main/0089-gray-code/) | Medium |
 | [0263-ugly-number](https://github.com/manish23033/daily_lc/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/manish23033/daily_lc/tree/main/0268-missing-number/) | Easy |
 | [0382-linked-list-random-node](https://github.com/manish23033/daily_lc/tree/main/0382-linked-list-random-node/) | Medium |
@@ -302,4 +304,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0382-linked-list-random-node](https://github.com/manish23033/daily_lc/tree/main/0382-linked-list-random-node/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/manish23033/daily_lc/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
