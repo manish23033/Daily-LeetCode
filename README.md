@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0089-gray-code](https://github.com/manish23033/daily_lc/tree/main/0089-gray-code/) | Medium |
 | [0263-ugly-number](https://github.com/manish23033/daily_lc/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/manish23033/daily_lc/tree/main/0268-missing-number/) | Easy |
+| [0343-integer-break](https://github.com/manish23033/daily_lc/tree/main/0343-integer-break/) | Medium |
 | [0382-linked-list-random-node](https://github.com/manish23033/daily_lc/tree/main/0382-linked-list-random-node/) | Medium |
 | [0412-fizz-buzz](https://github.com/manish23033/daily_lc/tree/main/0412-fizz-buzz/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/manish23033/daily_lc/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/manish23033/daily_lc/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/manish23033/daily_lc/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manish23033/daily_lc/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0343-integer-break](https://github.com/manish23033/daily_lc/tree/main/0343-integer-break/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
