@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0089-gray-code](https://github.com/manish23033/daily_lc/tree/main/0089-gray-code/) | Medium |
 | [0263-ugly-number](https://github.com/manish23033/daily_lc/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/manish23033/daily_lc/tree/main/0268-missing-number/) | Easy |
+| [0319-bulb-switcher](https://github.com/manish23033/daily_lc/tree/main/0319-bulb-switcher/) | Medium |
 | [0343-integer-break](https://github.com/manish23033/daily_lc/tree/main/0343-integer-break/) | Medium |
 | [0382-linked-list-random-node](https://github.com/manish23033/daily_lc/tree/main/0382-linked-list-random-node/) | Medium |
 | [0412-fizz-buzz](https://github.com/manish23033/daily_lc/tree/main/0412-fizz-buzz/) | Easy |
@@ -310,4 +311,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/manish23033/daily_lc/tree/main/0089-gray-code/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/manish23033/daily_lc/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
