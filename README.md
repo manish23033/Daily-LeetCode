@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manish23033/daily_lc/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/manish23033/daily_lc/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/manish23033/daily_lc/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/manish23033/daily_lc/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/manish23033/daily_lc/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/manish23033/daily_lc/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/manish23033/daily_lc/tree/main/0053-maximum-subarray/) | Medium |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/manish23033/daily_lc/tree/main/0046-permutations/) | Medium |
 | [0089-gray-code](https://github.com/manish23033/daily_lc/tree/main/0089-gray-code/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
