@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/manish23033/daily_lc/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/manish23033/daily_lc/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/manish23033/daily_lc/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1306-jump-game-iii](https://github.com/manish23033/daily_lc/tree/main/1306-jump-game-iii/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/manish23033/daily_lc/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1816-truncate-sentence](https://github.com/manish23033/daily_lc/tree/main/1816-truncate-sentence/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/manish23033/daily_lc/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -317,4 +318,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/manish23033/daily_lc/tree/main/0319-bulb-switcher/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1306-jump-game-iii](https://github.com/manish23033/daily_lc/tree/main/1306-jump-game-iii/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1306-jump-game-iii](https://github.com/manish23033/daily_lc/tree/main/1306-jump-game-iii/) | Medium |
 <!---LeetCode Topics End-->
